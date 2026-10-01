@@ -1,4 +1,4 @@
-public abstract class Persona {
+public abstract class Persona implements Almacenable {
 
     protected String id;
     protected String nombreCompleto;
